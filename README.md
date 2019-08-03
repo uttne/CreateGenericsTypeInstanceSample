@@ -1,2 +1,2 @@
-# CreateGenericsTypeInstanceSample
-private な Generics Type をインスタンス化するための方法を説明します
+# Generics type instance creating sample
+private な Generics Type をインスタンス化するための Sample です。
